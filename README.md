@@ -10,7 +10,7 @@ _Eu estou atualmente estudando desenvolvimento de sistemas 🖥🖱_
   <div style="display: inline_block"><br>
   <img align="center" alt="Filipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Filipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align ="right" alt = "Filipe-Gif" height="200" width="210" src="https://cdn.discordapp.com/attachments/798761099386028032/938756285644558366/samagami_samiikarana.gif">
+<img align ="right" alt = "Filipe-Gif" height="175" width="175" src="https://cdn.discordapp.com/attachments/798761099386028032/938756285644558366/samagami_samiikarana.gif">
     <div>
   
 ##
