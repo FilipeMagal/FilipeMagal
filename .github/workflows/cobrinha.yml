@@ -6,7 +6,9 @@ Marketplace
 Explore
  
 @FilipeMagal 
+rafaballerini
 /
+rafaballerini
 Public
 Code
 Issues
@@ -18,7 +20,9 @@ Projects
 Wiki
 Security
 Insights
-FilipeMagal Update cobrinha.yml
+rafaballerini/.github/workflows/cobrinha.yml
+@rafaballerini
+rafaballerini Update cobrinha.yml
 Latest commit d2470b3 on 29 May 2021
  History
  1 contributor
@@ -40,7 +44,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: FilipeMagal
+          github_user_name: rafaballerini
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
