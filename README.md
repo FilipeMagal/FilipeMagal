@@ -11,7 +11,7 @@ _Eu estou atualmente estudando desenvolvimento de sistemas 🖥🖱_
   <img align="center" alt="Filipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Filipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Filipe-MySql" height="30" width="40" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img align ="right" alt = "Filipe-Gif" height="175" width="175" src="https://cdn.discordapp.com/attachments/798761099386028032/938756285644558366/samagami_samiikarana.gif">
+<img align ="right" alt = "Filipe-Setup" height="175" width="250" src="https://media.discordapp.net/attachments/798761099386028032/939257327557681202/jjjjj.jpg">
     <div>
   
 ##
