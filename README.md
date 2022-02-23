@@ -1,6 +1,6 @@
 ### Olá! meu nome é Filipe 👋
 
-_Eu estou atualmente estudando desenvolvimento de sistemas 🖥🖱_
+_Eu estou atualmente estudando desenvolvimento de sistemas e fazendo graduação em computação em nuvem 🖥🖱_
 
 <div align="center">
   <a href="https://github.com/FilipeMagal">
