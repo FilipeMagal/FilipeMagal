@@ -1,6 +1,6 @@
 ### Olá! meu nome é Filipe 👋
 
-_Eu estou atualmente estudando desenvolvimento de sistemas e fazendo graduação em computação em nuvem 🖥🖱_
+Atualmente me formei como técnico em desenvolvimento de sistemas e estou fazendo graduação em ADS 🖥🖱_
 
 <div align="center">
   <a href="https://github.com/FilipeMagal">
