@@ -11,10 +11,6 @@ Atualmente me formei como técnico em desenvolvimento de sistemas e estou fazend
   <img align="center" alt="Filipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Filipe-MySql" height="30" width="40" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
-  <img align="center" alt="Filipe-Spring" height="30" width="40" src="https://i.im.ge/2024/11/04/kz6STX.pngegg.png">
-
-<img align="center" alt="Filipe-Postgresql" height="30" width="40" src="//imgur.com/a/UkoNGRI"> 
-
 
   
 ##
