@@ -8,9 +8,8 @@ Atualmente me formei como técnico em desenvolvimento de sistemas e estou fazend
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMagal&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Filipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Filipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <img align="center" alt="Filipe-MySql" height="30" width="40" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Filipe-MySql" height="30" width="40" src"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 
   <img align="center" alt="Filipe-Spring" height="30" width="40" src="https://i.im.ge/2024/11/04/kz6STX.pngegg.png">
 
