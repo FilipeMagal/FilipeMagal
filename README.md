@@ -14,7 +14,7 @@ Atualmente me formei como técnico em desenvolvimento de sistemas e estou fazend
 
   <img align="center" alt="Filipe-Spring" height="30" width="40" src="https://i.im.ge/2024/11/04/kz6STX.pngegg.png">
 
-<img align="center" alt="Filipe-Postgresql" height="30" width="40" src="https://imgur.com/a/UkoNGRI"> 
+<img align="center" alt="Filipe-Postgresql" height="30" width="40" src="//imgur.com/a/UkoNGRI"> 
 
 
   
