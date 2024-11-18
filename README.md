@@ -1,6 +1,6 @@
 ### Olá! meu nome é Filipe 👋
 
-Atualmente me formei como técnico em desenvolvimento de sistemas e estou fazendo graduação em ADS 🖥🖱_
+Desenvolvedor Java, com foco em Spring Boot, e com habilidades sólidas em desenvolvimento tanto de aplicações monolíticas quanto aplicações voltadas para arquitetura de microsserrviços tendo como objetivo alcançar padrões de desenvolvimento e boas práticas como Clean Architeture, Testes unitários, de integração e dados mocados.
 
 <div align="center">
   <a href="https://github.com/FilipeMagal">
